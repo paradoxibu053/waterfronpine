@@ -156,7 +156,9 @@ section {
   font-size: 2.5rem;
   margin-left: 1.7rem;
   cursor: pointer;
-  color: var(--black);
+  color: var(--white);
+  z-index: 900;
+
 }
 #menu-btn:hover,
 .footer .box-container .box a:hover,
