@@ -204,6 +204,8 @@ section {
 .swiper-button-prev::after {
   font-size: 2rem;
 }
+
+}
 .about .row {
   display: flex;
   flex-wrap: wrap;
